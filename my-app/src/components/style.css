@@ -1,0 +1,32 @@
+
+.containe{
+    width: 100%;
+    height: auto;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+form{
+    width: 300px;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.card-content{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 100px;
+}
+
+.email-card{
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+  margin: 10px;
+ 
+}
