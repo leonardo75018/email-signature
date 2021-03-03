@@ -81,7 +81,7 @@ const Signature = () => {
     return (
         <div >
             <div className="containe  mt-5">
-                <h3>Genete email signature</h3>
+                <h3>Generate email signature</h3>
                 <form onSubmit={agregar} >
                     <input
                         type="text"
@@ -126,7 +126,7 @@ const Signature = () => {
 
                             <div className="info-content">
                                 <div className="name">
-                                    <p>{item.nom} {item.prenom}   </p>
+                                    <p> {item.prenom} {item.nom}   </p>
                                     <div className="number">
                                         <p>{item.telephone}</p>
                                     </div>

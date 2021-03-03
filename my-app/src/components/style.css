@@ -9,7 +9,7 @@
 P{
   font-size: 12px;
   font-family: "Gilroy";
-  letter-spacing: 1px;
+
   
 }
 
@@ -69,7 +69,7 @@ form{
 
 .info-content{
   padding-top: 20px;
-  width: 50%;
+  width: 71%;
   text-align: right;
  
 
@@ -80,6 +80,9 @@ form{
   width: 100%;
   /* background-color: yellow; */
 }
+.name p {
+  letter-spacing: 2px;
+}
 
 
 .number{
@@ -88,6 +91,7 @@ form{
   display: flex;
   justify-content: flex-end;
   margin-top: -13px;
+
 }
 
 
@@ -97,6 +101,7 @@ form{
   display: flex;
   justify-content: flex-end;
 }
+
 
 
 .reseaux{
