@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/leonardo75018/email-signature/static/css/main.e4729864.chunk.css",
-    "main.js": "/leonardo75018/email-signature/static/js/main.d27272ed.chunk.js",
-    "main.js.map": "/leonardo75018/email-signature/static/js/main.d27272ed.chunk.js.map",
-    "runtime-main.js": "/leonardo75018/email-signature/static/js/runtime-main.571be8cd.js",
-    "runtime-main.js.map": "/leonardo75018/email-signature/static/js/runtime-main.571be8cd.js.map",
-    "static/js/2.717f27c3.chunk.js": "/leonardo75018/email-signature/static/js/2.717f27c3.chunk.js",
-    "static/js/2.717f27c3.chunk.js.map": "/leonardo75018/email-signature/static/js/2.717f27c3.chunk.js.map",
-    "index.html": "/leonardo75018/email-signature/index.html",
-    "static/css/main.e4729864.chunk.css.map": "/leonardo75018/email-signature/static/css/main.e4729864.chunk.css.map",
-    "static/js/2.717f27c3.chunk.js.LICENSE.txt": "/leonardo75018/email-signature/static/js/2.717f27c3.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/leonardo75018/email-signature/static/media/Gilroy-ExtraBold.0094146a.otf",
-    "static/media/insta.1c7a3d7e.png": "/leonardo75018/email-signature/static/media/insta.1c7a3d7e.png",
-    "static/media/linkidin.84cb3464.png": "/leonardo75018/email-signature/static/media/linkidin.84cb3464.png",
-    "static/media/logo.ee464022.png": "/leonardo75018/email-signature/static/media/logo.ee464022.png",
-    "static/media/tweeter.a32f4fe2.png": "/leonardo75018/email-signature/static/media/tweeter.a32f4fe2.png",
-    "static/media/vimeo.166ef8a6.png": "/leonardo75018/email-signature/static/media/vimeo.166ef8a6.png",
-    "static/media/youtube.145807fd.png": "/leonardo75018/email-signature/static/media/youtube.145807fd.png"
+    "main.css": "/email-signature/static/css/main.144bcc08.chunk.css",
+    "main.js": "/email-signature/static/js/main.d27272ed.chunk.js",
+    "main.js.map": "/email-signature/static/js/main.d27272ed.chunk.js.map",
+    "runtime-main.js": "/email-signature/static/js/runtime-main.e66c1c17.js",
+    "runtime-main.js.map": "/email-signature/static/js/runtime-main.e66c1c17.js.map",
+    "static/js/2.b7d99205.chunk.js": "/email-signature/static/js/2.b7d99205.chunk.js",
+    "static/js/2.b7d99205.chunk.js.map": "/email-signature/static/js/2.b7d99205.chunk.js.map",
+    "index.html": "/email-signature/index.html",
+    "static/css/main.144bcc08.chunk.css.map": "/email-signature/static/css/main.144bcc08.chunk.css.map",
+    "static/js/2.b7d99205.chunk.js.LICENSE.txt": "/email-signature/static/js/2.b7d99205.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/email-signature/static/media/Gilroy-ExtraBold.0094146a.otf",
+    "static/media/insta.1c7a3d7e.png": "/email-signature/static/media/insta.1c7a3d7e.png",
+    "static/media/linkidin.84cb3464.png": "/email-signature/static/media/linkidin.84cb3464.png",
+    "static/media/logo.ee464022.png": "/email-signature/static/media/logo.ee464022.png",
+    "static/media/tweeter.a32f4fe2.png": "/email-signature/static/media/tweeter.a32f4fe2.png",
+    "static/media/vimeo.166ef8a6.png": "/email-signature/static/media/vimeo.166ef8a6.png",
+    "static/media/youtube.145807fd.png": "/email-signature/static/media/youtube.145807fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.571be8cd.js",
-    "static/js/2.717f27c3.chunk.js",
-    "static/css/main.e4729864.chunk.css",
+    "static/js/runtime-main.e66c1c17.js",
+    "static/js/2.b7d99205.chunk.js",
+    "static/css/main.144bcc08.chunk.css",
     "static/js/main.d27272ed.chunk.js"
   ]
 }
