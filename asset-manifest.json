@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/email-signature/static/css/main.144bcc08.chunk.css",
-    "main.js": "/email-signature/static/js/main.d27272ed.chunk.js",
-    "main.js.map": "/email-signature/static/js/main.d27272ed.chunk.js.map",
+    "main.css": "/email-signature/static/css/main.e64664bd.chunk.css",
+    "main.js": "/email-signature/static/js/main.42bfe012.chunk.js",
+    "main.js.map": "/email-signature/static/js/main.42bfe012.chunk.js.map",
     "runtime-main.js": "/email-signature/static/js/runtime-main.e66c1c17.js",
     "runtime-main.js.map": "/email-signature/static/js/runtime-main.e66c1c17.js.map",
     "static/js/2.b7d99205.chunk.js": "/email-signature/static/js/2.b7d99205.chunk.js",
     "static/js/2.b7d99205.chunk.js.map": "/email-signature/static/js/2.b7d99205.chunk.js.map",
     "index.html": "/email-signature/index.html",
-    "static/css/main.144bcc08.chunk.css.map": "/email-signature/static/css/main.144bcc08.chunk.css.map",
+    "static/css/main.e64664bd.chunk.css.map": "/email-signature/static/css/main.e64664bd.chunk.css.map",
     "static/js/2.b7d99205.chunk.js.LICENSE.txt": "/email-signature/static/js/2.b7d99205.chunk.js.LICENSE.txt",
     "static/media/style.css": "/email-signature/static/media/Gilroy-ExtraBold.0094146a.otf",
     "static/media/insta.1c7a3d7e.png": "/email-signature/static/media/insta.1c7a3d7e.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e66c1c17.js",
     "static/js/2.b7d99205.chunk.js",
-    "static/css/main.144bcc08.chunk.css",
-    "static/js/main.d27272ed.chunk.js"
+    "static/css/main.e64664bd.chunk.css",
+    "static/js/main.42bfe012.chunk.js"
   ]
 }
