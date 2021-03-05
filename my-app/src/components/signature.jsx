@@ -116,51 +116,56 @@ const Signature = () => {
                 {
                     mebers.map(item =>
 
-                        <div className="email-card">
-                            <div className="logo-content">
+                        <div className="email-card" style={{ width: "300px" }}>
+                            <div className="logo-content" style={{ display: "flex", justifyContent: "flex-end" }}>
                                 <div className="logo">
-                                    <img src={logo} alt="" />
+                                    <img src={logo} alt="" style={{ width: "200px" }} />
                                 </div>
                             </div>
 
 
-                            <div className="info-content">
-                                <div className="name">
-                                    <p> {item.prenom} {item.nom}   </p>
-                                    <div className="number">
-                                        <p>{item.telephone}</p>
+                            <div className="info-content" style={{ width: "70%" }}>
+                                <div className="name" style={{ letterSpacing: "2px" }}>
+                                    <div style={{ display: "flex", justifyContent: "flex-end" }} >
+                                        <p> {item.prenom} {item.nom}   </p>
+
                                     </div>
-                                    <div className="reseaux">
+
+                                    <div className="number" style={{ display: "flex", justifyContent: "flex-end" }}>
+                                        <p style={{ marginTop: "0" }}>{item.telephone}</p>
+                                    </div>
+                                    <div className="reseaux" style={{ display: "flex", justifyContent: "flex-end" }}   >
+
                                         <a href="https://www.linkedin.com/company/widactic/" target="_blank">
                                             <div className="insta">
-                                                <img src={linkidin} alt="" />
+                                                <img src={linkidin} alt="" style={{ width: "25px", paddingRight: "4px" }} />
 
                                             </div>
                                         </a>
 
                                         <a href="https://twitter.com/Widactic" target="_blank">
                                             <div className="insta">
-                                                <img src={tweeter} alt="" />
+                                                <img src={tweeter} alt="" style={{ width: "25px", paddingRight: "4px" }} />
                                             </div>
                                         </a>
 
                                         <a href="https://www.youtube.com/channel/UCLOnRmY2mLOpKEmztASOE-Q" target="_blank">
                                             <div className="insta">
-                                                <img src={youtube} alt="" />
+                                                <img src={youtube} alt="" style={{ width: "25px", paddingRight: "4px" }} />
 
                                             </div>
                                         </a>
 
                                         <a href="https://vimeo.com/widactic" target="_blank">
                                             <div className="insta">
-                                                <img src={vimeo} alt="" />
+                                                <img src={vimeo} alt="" style={{ width: "25px", paddingRight: "4px" }} />
 
                                             </div>
                                         </a>
 
                                         <a href="https://www.instagram.com/widactic/?hl=fr" target="_blank">
                                             <div className="insta">
-                                                <img src={insta} alt="" />
+                                                <img src={insta} alt="" style={{ width: "25px", paddingRight: "4px" }} />
 
                                             </div>
                                         </a>
