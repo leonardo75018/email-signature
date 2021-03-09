@@ -118,6 +118,8 @@ const Signature = () => {
 
                         <div className="email-card" style={{ width: "300px" }}>
 
+
+
                             <div className="logo-content" style={{ display: "flex", justifyContent: "flex-end" }}>
                                 <div className="logo">
                                     <img src="https://firebasestorage.googleapis.com/v0/b/backwidactic.appspot.com/o/logo.png?alt=media&token=f827f8f8-9ab6-403c-a44b-088abd21686f" alt="" style={{ width: "200px" }} />
@@ -127,8 +129,8 @@ const Signature = () => {
 
                             <div className="info-content" style={{ width: "70%" }}>
                                 <div className="name" style={{ letterSpacing: "2px" }}>
-                                    <div style={{ display: "flex", justifyContent: "flex-end" }} >
-                                        <p> {item.prenom} {item.nom}   </p>
+                                    <div style={{ display: "flex", justifyContent: "flex-end", textAlign: "right" }} >
+                                        <p>      {item.prenom} {item.nom}   </p>
 
                                     </div>
 

@@ -34,9 +34,9 @@ form{
 }
 
 .card-content{
-    display: flex;
+    /* display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
     padding-top: 100px;
 }
 
